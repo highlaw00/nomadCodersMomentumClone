@@ -1,3 +1,7 @@
 .hidden {
   display: none;
 }
+
+#quote {
+  text-align: center;
+}
